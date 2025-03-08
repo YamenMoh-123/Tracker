@@ -1,0 +1,19 @@
+# Build and output files
+bin/
+obj/
+
+# ASP.NET Environment files (if sensitive data is stored)
+appsettings.Development.json
+appsettings.Production.json
+appsettings.json
+
+# User-specific files
+.vs/
+*.suo
+*.user
+
+# Rider / JetBrains
+.idea/
+
+# ASP.NET Core
+*.db
