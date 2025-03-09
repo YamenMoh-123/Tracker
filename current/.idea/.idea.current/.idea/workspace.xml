@@ -8,18 +8,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="3f752532-7e01-4e6c-8465-97d5983605b2" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.current/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.current/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/bin/Debug/net9.0/current.dll" beforeDir="false" afterPath="$PROJECT_DIR$/current/bin/Debug/net9.0/current.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/bin/Debug/net9.0/current.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/current/bin/Debug/net9.0/current.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.AssemblyInfo.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.AssemblyInfoInputs.cache" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.csproj.FileListAbsolute.txt" beforeDir="false" afterPath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.csproj.FileListAbsolute.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.dll" beforeDir="false" afterPath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/current/obj/Debug/net9.0/current.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/obj/Debug/net9.0/ref/current.dll" beforeDir="false" afterPath="$PROJECT_DIR$/current/obj/Debug/net9.0/ref/current.dll" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/current/obj/Debug/net9.0/refint/current.dll" beforeDir="false" afterPath="$PROJECT_DIR$/current/obj/Debug/net9.0/refint/current.dll" afterDir="false" />
-    </list>
+    <list default="true" id="3f752532-7e01-4e6c-8465-97d5983605b2" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
