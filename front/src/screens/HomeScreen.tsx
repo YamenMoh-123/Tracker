@@ -1,4 +1,3 @@
-// src/screens/HomeScreen.tsx
 import React from 'react';
 import {View, Text, TouchableOpacity} from 'react-native';
 import { useQuery } from '@tanstack/react-query';
