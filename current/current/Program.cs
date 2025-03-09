@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using current.Models;
+using current.Routes;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -23,5 +24,6 @@ app.UseHttpsRedirection();
 
 // Register routes
 app.MapApiEndpoints();
+app.MapAuthEndpoints();
 
 app.Run();

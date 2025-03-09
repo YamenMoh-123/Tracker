@@ -1,6 +1,7 @@
 using current.Models;
 using Microsoft.EntityFrameworkCore;
 
+
 public static class ApiEndpoints
 {
     public static void MapApiEndpoints(this IEndpointRouteBuilder app)
